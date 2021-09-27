@@ -1,4 +1,5 @@
-### Hi there 👋
+### Oláá 👋
+### Eu sou a Thayná, Bem vindo ao meu perfil!
 
 ##
 🌱💻  _**Desenvolvedora full stack em construção**_ 💻🌱

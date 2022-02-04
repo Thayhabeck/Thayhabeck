@@ -9,6 +9,14 @@
 ##
 
 <div align="center">
+  
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/thabeck-)](https://github.com/JaeSeoKim/badge42)
+
+</div>
+  
+##
+
+<div align="center">
   <a href="https://github.com/Thayhabeck">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=thayhabeck&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayhabeck&layout=compact&langs_count=7&theme=dracula"/>

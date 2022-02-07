@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/thabeck-?cursus=Basecamp)]
+![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/thabeck-?cursus=Basecamp)
 
 </div>
   

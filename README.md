@@ -6,14 +6,7 @@
   <img height="15" src="https://media.discordapp.net/attachments/756212279195992225/898801109009825863/recode-pro-2.png"> 
 </div>  
 
-##
-
-<div align="center">
-  
-![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/thabeck-?cursus=Basecamp)
-
-</div>
-  
+ 
 ##
 
 <div align="center">

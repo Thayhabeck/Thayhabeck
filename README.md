@@ -1,6 +1,15 @@
 ### Oláá 👋
 ### Eu sou Thayná, Bem vindo ao meu perfil!
 
+
+ 
+ ##
+
+<div align="center">
+ 
+  [![thabeck-'s 42 stats](https://badge42.vercel.app/api/v2/cl2hoyg3r006009lf8tkpldta/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+</div>
+  <br/>
  
 ##
 

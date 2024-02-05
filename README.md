@@ -3,14 +3,6 @@
 
 
  
- ##
-
-<div align="center">
- 
-  [![thabeck-'s 42 stats](https://badge42.vercel.app/api/v2/cl2hoyg3r006009lf8tkpldta/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-</div>
-  <br/>
- 
 ##
 
 <div align="center">
@@ -63,13 +55,7 @@
   
 </div>
   
-  ##
-  
-<div align="center">
-    
-  ![Snake animation](https://github.com/thayhabeck/thayhabeck/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 <div align="center">
   
 ### 😂😂 DIVIRTA-SE COM UMA PIADA ALEATÓRIA 😂😂
